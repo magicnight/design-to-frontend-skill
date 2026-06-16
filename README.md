@@ -1,5 +1,7 @@
 # design-to-frontend
 
+**English** · [中文](README.zh-CN.md)
+
 A Claude Code **skill** that takes an existing *Claude Design prototype* — an in-browser
 React + `@babel/standalone` HTML mockup (one HTML entry loading `src/*.jsx` + design tokens, **no
 build step**) — toward a polished, dev-ready frontend.
